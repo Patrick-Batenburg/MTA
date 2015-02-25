@@ -1,0 +1,11 @@
+c:\users\medion\documents\visual studio 2012\Projects\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.exe.config
+c:\users\medion\documents\visual studio 2012\Projects\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.exe
+c:\users\medion\documents\visual studio 2012\Projects\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.pdb
+c:\users\medion\documents\visual studio 2012\Projects\Competency Assessment\Scenario 1-2\obj\Debug\Scenario 1-2.exe
+c:\users\medion\documents\visual studio 2012\Projects\Competency Assessment\Scenario 1-2\obj\Debug\Scenario 1-2.pdb
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.exe.config
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\obj\Debug\Scenario 1-2.exe
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\obj\Debug\Scenario 1-2.pdb
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.exe
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\bin\Debug\Scenario 1-2.pdb
+L:\Visual Studio 2012\Projects\Lesson01\Skill summary\Competency Assessment\Scenario 1-2\obj\Debug\Scenario 1-2.csprojResolveAssemblyReference.cache

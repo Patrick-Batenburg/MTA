@@ -1,0 +1,6 @@
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.exe.config
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\bin\Debug\if_Statement.pdb
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\obj\Debug\if_Statement.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\obj\Debug\if_Statement.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\if_Statement\obj\Debug\if_Statement.pdb

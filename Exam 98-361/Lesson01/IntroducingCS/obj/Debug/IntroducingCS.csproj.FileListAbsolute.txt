@@ -1,0 +1,6 @@
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.exe.config
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\bin\Debug\IntroducingCS.pdb
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\IntroducingCS\obj\Debug\IntroducingCS.pdb

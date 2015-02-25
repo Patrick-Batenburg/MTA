@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\TryCatchFinallyTest\bin\Debug\TryCatchFinallyTest.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\TryCatchFinallyTest\bin\Debug\TryCatchFinallyTest.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\TryCatchFinallyTest\bin\Debug\TryCatchFinallyTest.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\TryCatchFinallyTest\obj\Debug\TryCatchFinallyTest.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\TryCatchFinallyTest\obj\Debug\TryCatchFinallyTest.pdb

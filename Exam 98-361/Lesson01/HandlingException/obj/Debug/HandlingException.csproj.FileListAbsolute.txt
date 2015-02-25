@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\bin\Debug\HandlingException.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\bin\Debug\HandlingException.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\bin\Debug\HandlingException.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\obj\Debug\HandlingException.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\obj\Debug\HandlingException.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\HandlingException\obj\Debug\HandlingException.pdb

@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\bin\Debug\while_Statement.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\bin\Debug\while_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\bin\Debug\while_Statement.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\obj\Debug\while_Statement.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\obj\Debug\while_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\while_Statement\obj\Debug\while_Statement.pdb

@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\for_Statement\bin\Debug\for_Statement.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\for_Statement\bin\Debug\for_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\for_Statement\bin\Debug\for_Statement.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\for_Statement\obj\Debug\for_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\for_Statement\obj\Debug\for_Statement.pdb

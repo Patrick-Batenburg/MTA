@@ -1,0 +1,9 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\bin\Debug\Lesson02.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\obj\Debug\Lesson02.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\bin\Debug\Lesson02.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\bin\Debug\Lesson02.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\obj\Debug\Lesson02.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson02\Lesson02\obj\Debug\Lesson02.pdb
+L:\Visual Studio 2012\Projects\Lesson02\Lesson02\bin\Debug\Lesson02.exe.config
+L:\Visual Studio 2012\Projects\Lesson02\Lesson02\obj\Debug\Lesson02.exe
+L:\Visual Studio 2012\Projects\Lesson02\Lesson02\obj\Debug\Lesson02.pdb

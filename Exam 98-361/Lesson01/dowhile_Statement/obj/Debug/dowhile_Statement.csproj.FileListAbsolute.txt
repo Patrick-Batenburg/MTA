@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\dowhile_Statement\bin\Debug\dowhile_Statement.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\dowhile_Statement\bin\Debug\dowhile_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\dowhile_Statement\bin\Debug\dowhile_Statement.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\dowhile_Statement\obj\Debug\dowhile_Statement.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\dowhile_Statement\obj\Debug\dowhile_Statement.pdb

@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Lesson01\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

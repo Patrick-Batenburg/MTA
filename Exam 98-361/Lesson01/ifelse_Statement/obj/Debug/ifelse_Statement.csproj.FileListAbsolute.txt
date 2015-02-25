@@ -1,0 +1,6 @@
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\obj\Debug\ifelse_Statement.csprojResolveAssemblyReference.cache
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.exe.config
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\bin\Debug\ifelse_Statement.pdb
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\obj\Debug\ifelse_Statement.exe
+c:\users\patrick\documents\visual studio 2012\Projects\Lesson01\ifelse_Statement\obj\Debug\ifelse_Statement.pdb
