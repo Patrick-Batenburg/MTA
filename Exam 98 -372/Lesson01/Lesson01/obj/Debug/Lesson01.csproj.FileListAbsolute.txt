@@ -4,3 +4,9 @@ L:\Visual Studio 2012\Projects\MTA\Exam 98 -372\Lesson01\Lesson01\bin\Debug\Less
 L:\Visual Studio 2012\Projects\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.csprojResolveAssemblyReference.cache
 L:\Visual Studio 2012\Projects\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.exe
 L:\Visual Studio 2012\Projects\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\bin\Debug\Lesson01.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\bin\Debug\Lesson01.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\bin\Debug\Lesson01.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Lesson01\obj\Debug\Lesson01.csprojResolveAssemblyReference.cache
