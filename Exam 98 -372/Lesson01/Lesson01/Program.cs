@@ -10,16 +10,12 @@ namespace Lesson01
     {
         static void Main(string[] args)
         {
+            Rectangle rect1 = new Rectangle 
+                { Length = 10, Width = 20 };
+            Rectangle rect2 = new Rectangle 
+                { Length = 100, Width = 200 };
 
-            List<Polygon> polygons = new List<Polygon>();
-            polygons.Add(new Polygon());
-            polygons.Add(new Rectangle());
-            polygons.Add(new Triangle());
-
-            foreach (Polygon p in polygons)
-            {
-                p.Draw();
-            }
+            Console.WriteLine(rect1.CompareTo(rect2));
         }
     }
 }
