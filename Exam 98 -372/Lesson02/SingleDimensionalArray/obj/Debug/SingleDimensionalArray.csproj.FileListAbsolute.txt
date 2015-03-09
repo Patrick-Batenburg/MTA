@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.pdb

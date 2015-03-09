@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02", "Lesson02\Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueReference", "ValueReference\ValueReference.csproj", "{85436D55-744C-488E-B86D-8E5C4FF90228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleDimensionalArray", "SingleDimensionalArray\SingleDimensionalArray.csproj", "{B3412BDE-BDC5-46BB-8F4A-8D299047590D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingArrayList", "UsingArrayList\UsingArrayList.csproj", "{AE462E5D-544B-4A68-96CB-807ADF18C517}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{85436D55-744C-488E-B86D-8E5C4FF90228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85436D55-744C-488E-B86D-8E5C4FF90228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85436D55-744C-488E-B86D-8E5C4FF90228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3412BDE-BDC5-46BB-8F4A-8D299047590D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3412BDE-BDC5-46BB-8F4A-8D299047590D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3412BDE-BDC5-46BB-8F4A-8D299047590D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3412BDE-BDC5-46BB-8F4A-8D299047590D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
