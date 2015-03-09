@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\bin\Debug\ValueReference.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\bin\Debug\ValueReference.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\bin\Debug\ValueReference.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\obj\Debug\ValueReference.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\obj\Debug\ValueReference.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\ValueReference\obj\Debug\ValueReference.pdb

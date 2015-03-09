@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\bin\Debug\Project 1-1.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\bin\Debug\Project 1-1.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\bin\Debug\Project 1-1.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\obj\Debug\Project 1-1.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\obj\Debug\Project 1-1.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Skill Summary\Competency Assessment\Project 1-1\Project 1-1\obj\Debug\Project 1-1.pdb

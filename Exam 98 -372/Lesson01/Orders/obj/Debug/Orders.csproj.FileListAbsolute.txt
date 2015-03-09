@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Orders\bin\Debug\Orders.dll
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Orders\bin\Debug\Orders.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Orders\obj\Debug\Orders.dll
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Orders\obj\Debug\Orders.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson01\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
