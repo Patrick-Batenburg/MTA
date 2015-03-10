@@ -1,0 +1,6 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\bin\Debug\GenericList.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\obj\Debug\GenericList.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\GenericList\obj\Debug\GenericList.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleDimensionalArray", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingArrayList", "UsingArrayList\UsingArrayList.csproj", "{AE462E5D-544B-4A68-96CB-807ADF18C517}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{727DFE36-5F1C-4EF1-B158-46CB9836CC7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE462E5D-544B-4A68-96CB-807ADF18C517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727DFE36-5F1C-4EF1-B158-46CB9836CC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727DFE36-5F1C-4EF1-B158-46CB9836CC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727DFE36-5F1C-4EF1-B158-46CB9836CC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727DFE36-5F1C-4EF1-B158-46CB9836CC7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
