@@ -10,13 +10,19 @@ namespace Project_2_1
     {
         static void Main(string[] args)
         {
-            int[,] arr = new int[4, 5]
+            const int xLength = 5;
+            const int yLength = 4;
+
+            Random rnd = new Random();
+            int[,] arr = new int[yLength, xLength];
+            for (int y = 0; y < yLength; y++)
             {
-                { 9, 45, 6, 55, 96},
-                { 3, 8, 46, 9, 82 },
-                { 28, 36, 4, 22, 46},
-                { 99, 6, 44, 5, 33},
-            };
+                for (int x = 0; x < xLength; x++)
+                {
+                    arr[y, x] = rnd.Next(0, 50);
+                }
+            }
+            
             Console.WriteLine("Records of row 1");
             Console.WriteLine(arr[0, 0]);
             Console.WriteLine(arr[0, 1]);
@@ -49,7 +55,28 @@ namespace Project_2_1
             Console.WriteLine(arr[3, 4]);
             Console.WriteLine();
 
-            Console.WriteLine("The highest element of row 1 is {0}", arr[0, 4]);
+            for (int yHighest = 0; yHighest < yLength; yHighest++)
+            {
+                for (int xHighest = 0; xHighest < xLength; xHighest++)
+                {
+                    if (arr[yHighest, xHighest] > arr[yHighest, xHighest + 1])
+                    {
+                        int temp = arr[yHighest, xHighest];
+                        arr[yHighest, xHighest] = arr[yHighest, xHighest + 1];
+                        arr[yHighest, xHighest + 1] = temp;
+                    }
+
+                }
+            }
+            for (int iY = 0; iY < arr.Length; iY++)
+            {
+                Console.WriteLine(arr[]);
+                for (int iX = 0; iX < arr.Length; iX++)
+                {
+                    Console.WriteLine(arr[]);
+                }
+            }
+            Console.WriteLine("The highest element of row 1 is {0}", arr[]);
             Console.WriteLine("The highest element of row 2 is {0}", arr[1, 4]);
             Console.WriteLine("The highest element of row 3 is {0}", arr[2, 4]);
             Console.WriteLine("The highest element of row 4 is {0}", arr[3, 0]);
