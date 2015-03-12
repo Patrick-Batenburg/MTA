@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,21 +7,31 @@ using System.Threading.Tasks;
 
 namespace Project_2_3
 {
+    
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Queue<int> collection1 = new Queue<int>();
-            collection1.Enqueue(1);
-            collection1.Enqueue(6);
-            collection1.Enqueue(35);
-            collection1.Enqueue(98);
-            collection1.Enqueue(12);
-            collection1.Enqueue(61);
-            collection1.Enqueue(55);
-            collection1.Enqueue(204);
-            collection1.Enqueue(86);
-            collection1.Enqueue(741);
+            int arrayI = 0;
+            int arrayCollection1 = 10;
+            Random rnd = new Random();
+            Queue<Compare> list = new Queue<Compare>();
+            for (int i = 0; i < arrayCollection1; i++)
+                list.Enqueue(new Compare(rnd.Next(0, 50)));
+
+            Console.WriteLine("Current values:");
+            foreach (Compare p in list)
+            Console.WriteLine(p.GetValue);
+            Console.WriteLine();
+
+            //IEnumerable<Compare> query = list.OrderBy( > );
+            list.OrderBy(a => a, );
+
+            Console.WriteLine("Sorted values:");
+            foreach (Compare p in list)
+            Console.WriteLine(p.GetValue);
+
+            Console.ReadKey();
 
         }
     }

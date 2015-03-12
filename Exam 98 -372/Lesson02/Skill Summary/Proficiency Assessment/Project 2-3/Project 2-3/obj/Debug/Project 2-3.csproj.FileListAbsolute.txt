@@ -1,1 +1,6 @@
 C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\bin\Debug\Project 2-3.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\bin\Debug\Project 2-3.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\bin\Debug\Project 2-3.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\obj\Debug\Project 2-3.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\obj\Debug\Project 2-3.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson02\Skill Summary\Proficiency Assessment\Project 2-3\Project 2-3\obj\Debug\Project 2-3.pdb

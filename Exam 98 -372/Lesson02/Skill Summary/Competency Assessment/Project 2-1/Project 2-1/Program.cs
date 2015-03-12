@@ -59,24 +59,24 @@ namespace Project_2_1
             {
                 for (int xHighest = 0; xHighest < xLength; xHighest++)
                 {
-                    if (arr[yHighest, xHighest] > arr[yHighest, xHighest + 1])
+                    if (arr[yHighest, xHighest] > arr[yHighest, xHighest])
                     {
                         int temp = arr[yHighest, xHighest];
                         arr[yHighest, xHighest] = arr[yHighest, xHighest + 1];
                         arr[yHighest, xHighest + 1] = temp;
                     }
+                }
+            }
+            //for (int iY = 0; iY < arr.Length; iY++)
+            //{
+            //    Console.WriteLine(arr[]);
+            //    for (int iX = 0; iX < arr.Length; iX++)
+            //    {
+            //        Console.WriteLine(arr[]);
+            //    }
+            //}
 
-                }
-            }
-            for (int iY = 0; iY < arr.Length; iY++)
-            {
-                Console.WriteLine(arr[]);
-                for (int iX = 0; iX < arr.Length; iX++)
-                {
-                    Console.WriteLine(arr[]);
-                }
-            }
-            Console.WriteLine("The highest element of row 1 is {0}", arr[]);
+            //Console.WriteLine("The highest element of row 1 is {0}", arr[0, Math.Max(0, xHighest)]);
             Console.WriteLine("The highest element of row 2 is {0}", arr[1, 4]);
             Console.WriteLine("The highest element of row 3 is {0}", arr[2, 4]);
             Console.WriteLine("The highest element of row 4 is {0}", arr[3, 0]);
