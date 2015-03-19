@@ -10,8 +10,9 @@ namespace Project_2_1
     {
         static void Main(string[] args)
         {
-            const int xLength = 5;
-            const int yLength = 4;
+            
+            int xLength = 5;
+            int yLength = 4;
 
             Random rnd = new Random();
             int[,] arr = new int[yLength, xLength];
@@ -62,11 +63,12 @@ namespace Project_2_1
                     if (arr[yHighest, xHighest] > arr[yHighest, xHighest])
                     {
                         int temp = arr[yHighest, xHighest];
-                        arr[yHighest, xHighest] = arr[yHighest, xHighest + 1];
-                        arr[yHighest, xHighest + 1] = temp;
+                        arr[yHighest, xHighest] = arr[yHighest, xHighest];
+                        arr[yHighest, xHighest] = temp;
                     }
                 }
             }
+            
             //for (int iY = 0; iY < arr.Length; iY++)
             //{
             //    Console.WriteLine(arr[]);
@@ -75,8 +77,10 @@ namespace Project_2_1
             //        Console.WriteLine(arr[]);
             //    }
             //}
+            //int max = arr.Cast<int>().Max();
+            //arr.GetUpperBound(1);
 
-            //Console.WriteLine("The highest element of row 1 is {0}", arr[0, Math.Max(0, xHighest)]);
+            Console.WriteLine("The highest element of row 1 is {0}", arr[0, 0]);
             Console.WriteLine("The highest element of row 2 is {0}", arr[1, 4]);
             Console.WriteLine("The highest element of row 3 is {0}", arr[2, 4]);
             Console.WriteLine("The highest element of row 4 is {0}", arr[3, 0]);

@@ -1,0 +1,9 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\bin\Debug\EventPubSub.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\bin\Debug\EventPubSub.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\bin\Debug\EventPubSub.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\obj\Debug\EventPubSub.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\obj\Debug\EventPubSub.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\EventPubSub\obj\Debug\EventPubSub.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\EventPubSub\bin\Debug\EventPubSub.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\EventPubSub\obj\Debug\EventPubSub.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\EventPubSub\obj\Debug\EventPubSub.pdb

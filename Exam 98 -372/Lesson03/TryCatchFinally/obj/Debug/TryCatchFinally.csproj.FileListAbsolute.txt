@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

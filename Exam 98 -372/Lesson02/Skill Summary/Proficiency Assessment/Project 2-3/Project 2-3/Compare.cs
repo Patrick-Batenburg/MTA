@@ -20,7 +20,10 @@ namespace Project_2_3
         }
         public int GetValue 
         { 
-            get { return this.Value; } 
+            get 
+            { 
+                return this.Value;
+            } 
         }
     }
 }

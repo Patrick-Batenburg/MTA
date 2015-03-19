@@ -25,7 +25,6 @@ namespace Project_2_2
                     {
                         isValid = true;
                     }
-                
                 }
                 if (isValid)
                 {

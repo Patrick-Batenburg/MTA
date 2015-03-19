@@ -12,7 +12,6 @@ namespace Project_2_3
     {
         public static void Main(string[] args)
         {
-            int arrayI = 0;
             int arrayCollection1 = 10;
             Random rnd = new Random();
             Queue<Compare> list = new Queue<Compare>();
@@ -25,14 +24,25 @@ namespace Project_2_3
             Console.WriteLine();
 
             //IEnumerable<Compare> query = list.OrderBy( > );
-            list.OrderBy(a => a, );
+            //list.OrderBy(a => a, );
+            //for (int i = 0; i <  - 1; i++)
+            //{
+            //    if ( > .. + 1)
+            //    {
+            //        int temp = ;
+            //        = + 1;
+            //        = temp;
+            //    }
+            //}
 
             Console.WriteLine("Sorted values:");
             foreach (Compare p in list)
-            Console.WriteLine(p.GetValue);
-
+            {
+                Console.WriteLine(p.GetValue);
+                var newList = list.OrderBy(a => a.GetValue).ToList();
+            }
+            
             Console.ReadKey();
-
         }
     }
 }

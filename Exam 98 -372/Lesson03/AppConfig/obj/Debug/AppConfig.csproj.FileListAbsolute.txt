@@ -1,0 +1,9 @@
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\bin\Debug\AppConfig.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\bin\Debug\AppConfig.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\bin\Debug\AppConfig.pdb
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\obj\Debug\AppConfig.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\obj\Debug\AppConfig.exe
+C:\Users\Patrick\Documents\Visual Studio 2012\Projects\Spaceship\Lesson03\AppConfig\obj\Debug\AppConfig.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\AppConfig\bin\Debug\AppConfig.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\AppConfig\obj\Debug\AppConfig.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson03\AppConfig\obj\Debug\AppConfig.pdb
