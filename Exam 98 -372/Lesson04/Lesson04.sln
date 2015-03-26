@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentTime", "CurrentTime\CurrentTime.csproj", "{77F08D13-C99F-4592-91CE-5152BEFE3B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathUtil", "MathUtil\MathUtil.csproj", "{1842E12C-B995-4B0A-AA85-ACC1B57C1923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F08D13-C99F-4592-91CE-5152BEFE3B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F08D13-C99F-4592-91CE-5152BEFE3B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F08D13-C99F-4592-91CE-5152BEFE3B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F08D13-C99F-4592-91CE-5152BEFE3B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1842E12C-B995-4B0A-AA85-ACC1B57C1923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1842E12C-B995-4B0A-AA85-ACC1B57C1923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1842E12C-B995-4B0A-AA85-ACC1B57C1923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1842E12C-B995-4B0A-AA85-ACC1B57C1923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

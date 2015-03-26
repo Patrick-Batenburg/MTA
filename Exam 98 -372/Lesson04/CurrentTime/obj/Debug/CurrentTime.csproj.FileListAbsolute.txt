@@ -1,0 +1,9 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\bin\Debug\CurrentTime.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\bin\Debug\CurrentTime.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\bin\Debug\CurrentTime.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\obj\Debug\CurrentTime.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\obj\Debug\CurrentTime.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\Lesson04\CurrentTime\obj\Debug\CurrentTime.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\CurrentTime\bin\Debug\CurrentTime.exe.config
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\CurrentTime\obj\Debug\CurrentTime.exe
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\CurrentTime\obj\Debug\CurrentTime.pdb
