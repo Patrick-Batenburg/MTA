@@ -1,0 +1,5 @@
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\MathUtil\bin\Debug\MathUtil.dll
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\MathUtil\bin\Debug\MathUtil.pdb
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\MathUtil\obj\Debug\MathUtil.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\MathUtil\obj\Debug\MathUtil.dll
+C:\Users\Patrick\Documents\GitHub\MTA\Exam 98 -372\Lesson04\MathUtil\obj\Debug\MathUtil.pdb
